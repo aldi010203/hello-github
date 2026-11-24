@@ -1,11 +1,10 @@
 # hello-github
 Repository
 
-#TENTANG SAYA 
-
+# TENTANG SAYA 
 nama:aldi
 pogram studi:impormatika
 kelas:A
 
-#tujuan
+# tujuan
 belajar menggunakan git dan github
